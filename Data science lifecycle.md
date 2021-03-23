@@ -1,4 +1,4 @@
-![](https://lh3.googleusercontent.com/proxy/K3Gp26WkiLUgsksKggYFdjAkjSQbxZYj1wGzvP7fhwuM27ot9PM3H8Fwl9WnqhQDOj00tBBEx08VrqQdl9qrMz4yMWuZ7FDZy5OqDgclRcGVsGsToKoS2E2DkEHuisBVOtCKs6TFL19GX3EzWcol7Ht_vFjyC7BPWQ)
+![](https://lh3.googleusercontent.com/proxy/wCgMz8nClgFY_eDrQyjBR5D4A6Zyk8kNnMTr1aXN-RB1Hz3df3Qh8LVGKLlqbNJPmCG6rKQclAA4q9aT0eOMOJ8QPN1rdizzdx_DZpdnJgFCliBHqVa2VRw2IwGcxenQaZpudlKTJEt0gl3kncpcf1H5tOTvZZtgog)
 
 - What is the real world problem? 
 - Where are you going to get that data?
