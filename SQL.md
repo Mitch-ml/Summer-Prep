@@ -23,7 +23,7 @@ FROM prices
 ### WHERE
 Filter columns with WHERE
 
-```
+```sql
 SELECT *
 FROM prices
 WHERE price < 500
@@ -31,7 +31,7 @@ WHERE price < 500
 
 AND, OR, NOT can all be used with WHERE to help filter further
 
-```
+```sql
 SELECT *
 FROM prices
 WHERE retailer = ‘Amazon’
@@ -43,7 +43,7 @@ WHERE retailer = ‘Amazon’
 
 All columns specified in SELECT must be either listed in the GROUP BY clause or have an aggregate function applied to them
 
-```
+```sql
 SELECT retailer, MAX(price) as max_price
 FROM prices 
 GROUP BY retailer
@@ -53,7 +53,7 @@ GROUP BY retailer
 
 We can’t use WHERE on aggregated columns, for that we much use HAVING.
 
-```
+```sql
 SELECT retailer, MAX(price) as max_price
 FROM prices
 GROUP BY retailer
@@ -65,7 +65,7 @@ Let’s us order a column either by ascending order (ASC) - by default, or by de
 
 LIMIT controls how many tuples (rows) are displayed 
 
-```
+```sql
 SELECT *
 FROM prices
 ORDER BY price ASC
