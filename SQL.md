@@ -16,7 +16,7 @@ Select unique values with distinct
 
 Use AS to create a new column
 
-```
+```sql
 SELECT price/2 AS half_price
 FROM prices
 ```
