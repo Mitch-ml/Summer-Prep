@@ -20,7 +20,7 @@ Use AS to create a new column
 SELECT price/2 AS half_price
 FROM prices
 ```
-###WHERE
+### WHERE
 Filter columns with WHERE
 
 ```
@@ -39,7 +39,7 @@ WHERE retailer = ‘Amazon’
     AND price < 30l
 ```
 
-###GROUP BY
+### GROUP BY
 
 All columns specified in SELECT must be either listed in the GROUP BY clause or have an aggregate function applied to them
 
@@ -49,7 +49,7 @@ FROM prices
 GROUP BY retailer
 ```
 
-###HAVING
+### HAVING
 
 We can’t use WHERE on aggregated columns, for that we much use HAVING.
 
@@ -60,7 +60,7 @@ GROUP BY retailer
 HAVING max_price > 700
 ```
 
-###ORDER BY
+### ORDER BY
 Let’s us order a column either by ascending order (ASC) - by default, or by descending value (DESC).
 
 LIMIT controls how many tuples (rows) are displayed 
@@ -80,7 +80,7 @@ The order in which SQL commands are executed
 4. HAVING: eliminate groups
 5. SELECT: select columns
 
-###Joins
+### Joins
 
 **Inner join** contains only the rows that have matching columns in both tables
 
