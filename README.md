@@ -1,3 +1,3 @@
-### Data Science I
+### Summer prep
 
-Notes from Data Science I, with reference to Berkley's Data 100.
+I will be starting a masters in the fall of 2021. I'm reviewing a collection of free courses online in hopes of better preparing myself for the transition back into school.
